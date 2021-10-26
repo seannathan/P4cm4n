@@ -1,4 +1,4 @@
-# B
+# Pacman
 README: Pacman
 
 DESIGN CHOICES:
